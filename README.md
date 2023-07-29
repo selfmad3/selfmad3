@@ -20,5 +20,5 @@ I believe learning is a never-ending journey. To enhance my skills and stay upda
 
 ## ✉️ Let's Connect!
 
-Whether you want to collaborate on a project, learn more about my experiences, or just say hi, I'd love to hear from you! You can reach me at [Your Email](mailto:stefan7alimpic@gmail.com)
+Whether you want to collaborate on a project, learn more about my experiences, or just say hi, I'd love to hear from you! You can reach me at [stefan7alimpic@gmail.com](mailto:stefan7alimpic@gmail.com)
 
