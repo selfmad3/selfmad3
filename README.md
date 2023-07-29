@@ -1,6 +1,4 @@
-# Hello, world! 👋
-
-I'm [Your Name], a mobile software engineer by trade and a data engineering enthusiast by passion. I spend my days crafting beautiful, intuitive native applications and my nights delving into the intricate world of data engineering.
+I'm Stefan Alimpic, a mobile software engineer by trade and a data engineering enthusiast by passion. I spend my days crafting beautiful, intuitive native applications and my nights delving into the intricate world of data engineering.
 
 ## 📱 Mobile Software Engineer
 
